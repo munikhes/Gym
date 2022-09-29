@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Gym/static/css/main.06db7ad6.css",
-    "main.js": "/Gym/static/js/main.e3f1e32e.js",
-    "static/js/787.ef7b48db.chunk.js": "/Gym/static/js/787.ef7b48db.chunk.js",
-    "index.html": "/Gym/index.html",
-    "main.06db7ad6.css.map": "/Gym/static/css/main.06db7ad6.css.map",
-    "main.e3f1e32e.js.map": "/Gym/static/js/main.e3f1e32e.js.map",
-    "787.ef7b48db.chunk.js.map": "/Gym/static/js/787.ef7b48db.chunk.js.map"
+    "main.css": "/nameOfReposetory/static/css/main.06db7ad6.css",
+    "main.js": "/nameOfReposetory/static/js/main.a3937980.js",
+    "static/js/787.ef7b48db.chunk.js": "/nameOfReposetory/static/js/787.ef7b48db.chunk.js",
+    "index.html": "/nameOfReposetory/index.html",
+    "main.06db7ad6.css.map": "/nameOfReposetory/static/css/main.06db7ad6.css.map",
+    "main.a3937980.js.map": "/nameOfReposetory/static/js/main.a3937980.js.map",
+    "787.ef7b48db.chunk.js.map": "/nameOfReposetory/static/js/787.ef7b48db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.06db7ad6.css",
-    "static/js/main.e3f1e32e.js"
+    "static/js/main.a3937980.js"
   ]
 }
