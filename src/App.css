@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.title{
+  color:black;
+  font-size: 50px;
+  font-weight: 500px;
+}
+body{
+  background-image: url("https://img.freepik.com/free-photo/young-beautiful-woman-bright-sportwear-isolated-gradient-pink-blue-background-neon-light_155003-24199.jpg?w=1380&t=st=1664452683~exp=1664453283~hmac=834c8eb2e91cd8c2ce4fa4dec94f241c72be9ae1f82a1c73bf0bc51b01019b5f");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+
+
+
